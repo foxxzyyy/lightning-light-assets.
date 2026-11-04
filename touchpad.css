@@ -1,0 +1,10 @@
+/* Lightning Light DualSense touchpad logo overlay
+   Place the team's transparent logo at /pfp.png in this repository.
+*/
+.touchpad[data-name="touch-pad"] {
+  background-color: #fff !important;
+  background-image: url("https://raw.githubusercontent.com/foxxzyyy/lightning-light-assets./main/pfp.png") !important;
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+  background-size: 28% auto !important;
+}
